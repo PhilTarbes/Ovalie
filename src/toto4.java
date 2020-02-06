@@ -1,6 +1,8 @@
 public class toto4 {
 
-    /* héhé;   */
+    /*
+    héhé;
     System.out.print("toto");
+    */
 
 }
