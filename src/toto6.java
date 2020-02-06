@@ -1,6 +1,6 @@
-public class toto5 {
+public class toto6 {
 
-    /* toto5;
+    /* toto6;
     *
     *état initial
     *
