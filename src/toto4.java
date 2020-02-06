@@ -1,0 +1,2 @@
+public class toto4 {
+}
