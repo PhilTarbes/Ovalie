@@ -1,5 +1,5 @@
 public class toto4 {
 
-    héhé;
+    /* héhé;   */
 
 }
