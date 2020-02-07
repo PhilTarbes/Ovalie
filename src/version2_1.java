@@ -5,6 +5,7 @@ public class version2_1 {
     commit apres suppr fichiers
     modif fich version 2_1 branche version2.1
     modif dû à corr_2.1
+    modif avant merge version3
 
      */
 }
